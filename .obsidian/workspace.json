@@ -11,10 +11,14 @@
             "id": "502980edd071764a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ntcn2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Нова вкладка"
+              "title": "ntcn2"
             }
           }
         ]
@@ -175,6 +179,7 @@
   "active": "ecf8023a4b50b4c0",
   "lastOpenFiles": [
     "Тест.md",
+    "ntcn2.md",
     "README.md"
   ]
 }
