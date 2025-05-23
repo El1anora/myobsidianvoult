@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Тест"
             }
+          },
+          {
+            "id": "9b1e56abe94246c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без назви.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без назви"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,10 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "502980edd071764a",
+  "active": "9b1e56abe94246c0",
   "lastOpenFiles": [
-    "README.md",
     "Тест.md",
+    "Без назви.md",
+    "README.md",
     "ntcn2.md"
   ]
 }
